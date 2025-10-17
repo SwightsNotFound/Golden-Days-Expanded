@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 32,
+    "min_format": [32,0],
+    "max_format": [999,0],
+    "supported_formats": [32, 999],
+    "description": "§dby §6Mythitorium\n§7v2.1 §8- §71.21.5+"
+    }
+}
